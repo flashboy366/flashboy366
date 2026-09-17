@@ -2,8 +2,6 @@
 
 I am a software engineer with an experience in fullstack web development, currently focusing on game development, specifically gameplay/graphics programming, with a touch of game design.
 
-Currently looking for a team, custom C++ engines is what I'm interested in the most.
-
 ## Solo published games
 
 Steam release:
