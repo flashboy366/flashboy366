@@ -19,8 +19,8 @@ Game Development:
 - [Black-Hole-Exorcist](https://github.com/Platonov-GameDev/Black-Hole-Exorcist) (Godot, GLSL shaders, screen-space distortion shaders)
 - [Super-Sand](https://github.com/Platonov-GameDev/Super-Sand) (Godot, multithreading, compute shaders, real-time procedural generation)
 - [revolver_mastery](https://github.com/Platonov-GameDev/revolver_mastery) (Godot)
-- [Gravity-Samurai](https://github.com/Platonov-GameDev/Gravity-Samurai) (Godot)
-- [Snow-World](https://github.com/Platonov-GameDev/Snow-World) (Odin (C, but better) , Raylib)
+- [Gravity-Samurai](https://github.com/Platonov-GameDev/Gravity-Samurai) (Godot, 3D math, linear algebra, quaternions)
+- [Snow-World](https://github.com/Platonov-GameDev/Snow-World) (Odin (C, but better), Raylib)
 - [audio_synced_slasher](https://github.com/Platonov-GameDev/audio_synced_slasher) (C++, SDL)
 
 Machine Learning:
