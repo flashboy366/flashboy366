@@ -4,12 +4,12 @@ I am a software engineer with an experience in fullstack web development, curren
 
 Currently looking for a team, gameplay programming with C++ is what I'm most interested in.
 
-## My solo published games
+## Solo published games
 
-My Steam release:
+Steam release:
 [Planetris](https://store.steampowered.com/app/3846730/Planetris/)
 
-My itch.io:
+itch.io:
 [Milky Fox](https://milky-fox.itch.io/)
 
 ## My repos
